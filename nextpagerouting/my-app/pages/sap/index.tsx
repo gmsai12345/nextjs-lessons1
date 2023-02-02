@@ -6,6 +6,7 @@ function sap(){
     const router = useRouter()
     const handleClick = () => {
         router.push('/sap/sap2')
+        // it will redirect to that particular page sap2
     }
     return <> 
     <h1>sap</h1>

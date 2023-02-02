@@ -1,0 +1,27 @@
+types of pre rendering
+static generationL
+without data
+with data
+incremental static generation
+dynamic parameter when fetching data
+2. server side rendering
+- data fetching 
+client side data fetching
+combining pre-rendering with client-side data fetching
+react app builds template but html cannot be seen
+for next js seen html in templates create html pafge for each page
+why pre render improves performance wait for javascript to be executed there is a wait time in react\
+js
+helps with seo
+better search performance
+--
+pre render:
+. static generation
+. server side rendering
+ 
+ static generation
+ html page are generated at build time
+in advance during build time
+huge performance boost ecoomerce product pages
+by default next will prerender any application pages
+// static generation of page after fetching data
