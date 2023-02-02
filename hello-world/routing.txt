@@ -1,0 +1,13 @@
+routing in react app is done use 3rd party application
+rotes.js file to configure the routes
+for each route create a component file, export the component , import in routes.js and configure new routes
+in next js 
+file system based routing mechanism
+when file is added to pages folder in a project, it automatically becomes available as a route
+by mixing and matching the file name in nested folders structure, define routes is easy
+- route with pages
+- nested routes
+- dynamic routes
+- catch all routes
+- navigate from the ui
+delete api
