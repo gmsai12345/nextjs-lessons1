@@ -3,7 +3,7 @@ import Link from "next/link"
 function sap(){
     return <> 
     <h1>sap</h1>
-    <Link href='/sap1'>
+    <Link href='/sap/sap1'>
         <p>blog</p>
         </Link>
     </>
